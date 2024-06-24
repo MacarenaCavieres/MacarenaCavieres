@@ -17,6 +17,7 @@ Tech Stack
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)
 ![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white)
 ![Handlebars](https://img.shields.io/badge/Handlebars%20js-f0772b?style=plastic&logo=handlebarsdotjs&logoColor=black)
+
 ![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=JSON%20web%20tokens&logoColor=white)
 ![Mocka](https://img.shields.io/badge/Mocha-8D6748?style=plastic&logo=Mocha&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=plastic&logo=nodedotjs&logoColor=white)
