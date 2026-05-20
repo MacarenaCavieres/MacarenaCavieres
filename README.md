@@ -92,8 +92,6 @@ I build scalable web applications using modern frontend and backend technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-original.svg" alt="Mocha" width="40" height="40"/>
   <img src="https://spinnaker.io/images/spinnaker-logo-stacked.png" alt="Spinnaker" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" alt="Datadog" width="40" height="40"/>
   <img src="https://e7.pngegg.com/pngimages/242/220/png-clipart-splunk-color-logo-tech-companies.png" alt="Splunk" width="80"/>
@@ -101,9 +99,7 @@ I build scalable web applications using modern frontend and backend technologies
 
 - Git  
 - GitHub  
-- Postman  
-- Jest  
-- Mocha  
+- Postman    
 - Spinnaker  
 - Datadog  
 - Splunk  
