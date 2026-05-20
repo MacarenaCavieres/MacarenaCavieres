@@ -58,7 +58,7 @@ I build scalable web applications using modern frontend and backend technologies
 - Node.js  
 - GraphQL  
 - REST APIs
-- gRCP
+- gRPC
 
 </td>
 
