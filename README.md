@@ -41,7 +41,7 @@ I'm particularly interested in backend architecture, distributed systems, softwa
 ## 🏆 Certifications
 
 <p align="center">
-  <a href="YOUR_CREDLY_BADGE_URL">
+  <a href="https://www.credly.com/badges/a0af185b-6e93-4c40-8b95-be1815686578/public_url">
     <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
   </a>
 </p>
@@ -51,7 +51,7 @@ I'm particularly interested in backend architecture, distributed systems, softwa
   <br/>
   Amazon Web Services · 2026
   <br/>
-  <a href="YOUR_CREDLY_BADGE_URL">Verify my certification →</a>
+  <a href="https://www.credly.com/badges/a0af185b-6e93-4c40-8b95-be1815686578/public_url">Verify my certification →</a>
 </p>
 
 ---
