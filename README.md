@@ -1,7 +1,7 @@
 # Macarena Cavieres | Backend Software Developer
 
 <p align="center">
-  <img src="./assets/banner2.png" width="100%" alt="Macarena Cavieres - Backend Software Developer"/>
+  <img src="./assets/Banner2.png" width="100%" alt="Macarena Cavieres - Backend Software Developer"/>
 </p>
 
 <p align="center">
